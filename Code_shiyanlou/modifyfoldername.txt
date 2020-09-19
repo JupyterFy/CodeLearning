@@ -1,0 +1,9 @@
+1. mkdir a new folder
+2. cd new folder
+3. git init
+4. git remote add 远端仓库地址
+5. git pull origin master
+6. mv 旧文件夹名 新文件夹名
+7. git add --all
+8. git commit -m '添加注释'
+9. git push origin master
