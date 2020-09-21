@@ -47,7 +47,7 @@ a[2,-2] = [223]
  
  letters[2:5] = ['C', 'D', 'E']
  
- letters = [['a', 'b', 'C', 'D', 'E', 'f', 'g']
+ letters = ['a', 'b', 'C', 'D', 'E', 'f', 'g']
  
  #现在移出它们
  
@@ -71,11 +71,11 @@ a[2,-2] = [223]
   
   if list_name: #列表不为空
   
-      pass
+   pass
       
  else: #列表为空
  
-     pass
+   pass
      
   
  
