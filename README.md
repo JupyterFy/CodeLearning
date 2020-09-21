@@ -41,6 +41,39 @@ a[2,-2] = [223]
  
  则cubes变为[1, 8, 27, 64, 125]
  
+ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+ 
+ #替换某些值
+ 
+ letters[2:5] = ['C', 'D', 'E']
+ 
+ letters = [['a', 'b', 'C', 'D', 'E', 'f', 'g']
+ 
+ #现在移出它们
+ 
+ letters[2:5] = []
+ 
+ letters = ['a', 'b', 'f', 'g']
+ 
+ 检查某个值是否存在于列表中，可以这样做：
+ 
+ a = ['shiyanlou', 'is', 'cool']
+ 
+ 'cool' in a
+ 
+ True
+ 
+ 通过内建函数len()可以获取列表的长度
+  
+  len(a) = 3
+  
+  如果想要检查列表是否为空，请这样做：
+  if list_name: #列表不为空
+      pass
+ else: #列表为空
+     pass
+     
+  
  
  
  
