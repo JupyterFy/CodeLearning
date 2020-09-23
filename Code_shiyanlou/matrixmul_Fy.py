@@ -52,7 +52,7 @@ for i in C:
         x = 0
 print('-' * 7 * n)
 
-############################################
+
 '''
 【实验楼的官方答案】
 n = int(input("Enter the value of n: "))
@@ -75,3 +75,6 @@ for x in c:
     print()
 print("-" * 7 * n)
 '''
+
+
+
